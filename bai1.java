@@ -12,5 +12,6 @@ public static void main(String[] args) {
     }
     else
         System.out.println("So vua nhap la so 0");
+    System.out.println("xinchao");
 
 }
